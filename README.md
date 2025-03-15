@@ -5,7 +5,7 @@ Note the code for this porgam is runing through google colab. if you want to run
 The below text are the title for the code. if you want to find any part of code in notebook. you can copy the title and use control F to find the code cell in notebook.
 
 
-###Pre-setting for google colab
+### Pre-setting for google colab
 - import Libraries & Proccess bar
 - check GPU
 - connect google drive for saving model
